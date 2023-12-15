@@ -22,6 +22,7 @@ The overall predictive performance of the machine learning methods based on ANOV
 
 <h2>Results per class</h2>
 The predictive performance of the machine learning methods per-class based on ANOVA feature selection.
+<br>
 <i>Note: KICH stands for chromophobe renal cell carcinoma, KIRC stands for clear cell renal cell carcinoma, and KIRP stands for papillary renal cell carcinoma.</i>
 <br>
 <br>
@@ -45,7 +46,7 @@ The predictive performance of the machine learning methods per-class based on AN
     <!-- Replace the placeholder values with your actual data -->
     <tr>
       <td rowspan="3">Logistic Regression</td>
-      <td>Classifier 1</td>
+      <td>KICH</td>
       <td>0.85</td>
       <td>0.78</td>
       <td>0.92</td>
@@ -76,7 +77,7 @@ The predictive performance of the machine learning methods per-class based on AN
     <!-- Replace the placeholder values with your actual data -->
     <tr>
       <td rowspan="3">Naive Bayes</td>
-      <td>Classifier 1</td>
+      <td>KICH</td>
       <td>0.85</td>
       <td>0.78</td>
       <td>0.92</td>
@@ -107,7 +108,7 @@ The predictive performance of the machine learning methods per-class based on AN
     <!-- Replace the placeholder values with your actual data -->
     <tr>
       <td rowspan="3">K-Nearest Neighbor</td>
-      <td>Classifier 1</td>
+      <td>KICH</td>
       <td>0.85</td>
       <td>0.78</td>
       <td>0.92</td>
@@ -138,7 +139,7 @@ The predictive performance of the machine learning methods per-class based on AN
     <!-- Replace the placeholder values with your actual data -->
     <tr>
       <td rowspan="3">Support Vector Machine</td>
-      <td>Classifier 1</td>
+      <td>KICH</td>
       <td>0.85</td>
       <td>0.78</td>
       <td>0.92</td>
@@ -169,7 +170,7 @@ The predictive performance of the machine learning methods per-class based on AN
     <!-- Replace the placeholder values with your actual data -->
     <tr>
       <td rowspan="3">Decision Tree Classifier</td>
-      <td>Classifier 1</td>
+      <td>KICH</td>
       <td>0.85</td>
       <td>0.78</td>
       <td>0.92</td>
@@ -200,7 +201,7 @@ The predictive performance of the machine learning methods per-class based on AN
     <!-- Replace the placeholder values with your actual data -->
     <tr>
       <td rowspan="3">Random Forest Classifier</td>
-      <td>Classifier 1</td>
+      <td>KICH</td>
       <td>0.85</td>
       <td>0.78</td>
       <td>0.92</td>
@@ -231,7 +232,7 @@ The predictive performance of the machine learning methods per-class based on AN
     <!-- Replace the placeholder values with your actual data -->
     <tr>
       <td rowspan="3">Extra Trees Classifier</td>
-      <td>Classifier 1</td>
+      <td>KICH</td>
       <td>0.85</td>
       <td>0.78</td>
       <td>0.92</td>
@@ -262,7 +263,7 @@ The predictive performance of the machine learning methods per-class based on AN
     <!-- Replace the placeholder values with your actual data -->
     <tr>
       <td rowspan="3">Bagging Classifier</td>
-      <td>Classifier 1</td>
+      <td>KICH</td>
       <td>0.85</td>
       <td>0.78</td>
       <td>0.92</td>
@@ -293,7 +294,7 @@ The predictive performance of the machine learning methods per-class based on AN
     <!-- Replace the placeholder values with your actual data -->
     <tr>
       <td rowspan="3">Gradient Boosting Machine</td>
-      <td>Classifier 1</td>
+      <td>KICH</td>
       <td>0.85</td>
       <td>0.78</td>
       <td>0.92</td>
