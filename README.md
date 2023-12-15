@@ -69,18 +69,40 @@ Cancer remains a significant global health challenge, with early detection and a
       <td>0.89</td>
       <td>0.93</td>
     </tr>
+      
     
-    <!-- Repeat the structure for Class 2 and Class 3 -->
-    
-    <tr>
-      <td rowspan="3">Class 2</td>
-      <!-- ... -->
+      
+     <tr>
+      <td rowspan="3">Logistic Regression</td>
+      <td>KICH</td>
+      <td>0.85</td>
+      <td>0.78</td>
+      <td>0.92</td>
+      <td>0.89</td>
+      <td>0.82</td>
+      <td>0.95</td>
     </tr>
-    
     <tr>
-      <td rowspan="3">Class 3</td>
-      <!-- ... -->
+      <td>KIRC</td>
+      <td>0.90</td>
+      <td>0.85</td>
+      <td>0.88</td>
+      <td>0.91</td>
+      <td>0.87</td>
+      <td>0.92</td>
     </tr>
+    <tr>
+      <td>KIRP</td>
+      <td>0.88</td>
+      <td>0.80</td>
+      <td>0.94</td>
+      <td>0.87</td>
+      <td>0.89</td>
+      <td>0.93</td>
+    </tr>
+      
+    
+    
   </tbody>
 </table>
 
