@@ -14,14 +14,14 @@ Cancer remains a significant global health challenge, with early detection and a
 | K-Nearest Neighbors | 97.41 | 96.75 | 88.53 | 97.43 | 91.68 | 92.98 |
 | Support Vector Machine | 97.04 | 96.74 | 85.63 | 96.69 | 89.64 | 98.23 |
 | Decision Tree | 95.56 | 86.81 | 93.21 | 96.44 | 89.51 | 96.82 |
-| Random Forest Classifier |  |  |  |  |  |  |
+| Random Forest Classifier | 97.04 | 89.98 | 93.12 | 98.09 | 91.42 | 99.14 |
 | Extra Trees Classifier |  |  |  |  |  |  |
 | Bagging Classifier |  |  |  |  |  |  |
 | Gradient Boosting Machine |  |  |  |  |  |  |
 
 
 <h2>Result per class</h2>
-
+<i>Note: KICH stands for chromophobe renal cell carcinoma, KIRC stands for clear cell renal cell carcinoma, KIRP stands for papillary renal cell carcinoma.</i>
 <table>
   <thead>
     <tr>
@@ -29,6 +29,7 @@ Cancer remains a significant global health challenge, with early detection and a
       <th colspan="7">Performance Metrics</th>
     </tr>
     <tr>
+        <th>Class</th>
       <th>Accuracy</th>
       <th>Precision</th>
       <th>Recall</th>
