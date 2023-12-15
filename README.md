@@ -11,68 +11,10 @@ Cancer remains a significant global health challenge, with early detection and a
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | Logistic Regression | 94.81 | 93.70 | 82.53 | 94.63 | 86.58 | 97.78 |
 | Naive Bayes | 95.56 | 87.69 | 90.27 | 95.89 | 88.83 | 98.06 |
-| kNN |  |  |  |  |  |  |
-| SVM |  |  |  |  |  |  |
-| Decision Tree |  |  |  |  |  |  |
+| K-Nearest Neighbors | 97.41 | 96.75 | 88.53 | 97.43 | 91.68 | 92.98 |
+| Support Vector Machine | 97.04 | 96.74 | 85.63 | 96.69 | 89.64 | 98.23 |
+| Decision Tree | 95.56 | 86.81 | 93.21 | 96.44 | 89.51 | 96.82 |
 | Random Forest |  |  |  |  |  |  |
-| Extra Trees |  |  |  |  |  |  |
+| Extra Trees Classifier |  |  |  |  |  |  |
 | Bagging Classifier |  |  |  |  |  |  |
 | Gradient Boosting Machine |  |  |  |  |  |  |
-
-
-
-<html lang="en">
-<body>
-<h2>Result per class</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th rowspan="2">Classifier</th>
-      <th colspan="7">Performance Metrics</th>
-    </tr>
-    <tr>
-        <th>Class</th>
-      <th>Accuracy</th>
-      <th>Precision</th>
-      <th>Recall</th>
-      <th>Specificity</th>
-      <th>F1 Score</th>
-      <th>AUC</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Replace the placeholder values with your actual data -->
-    <tr>
-      <td rowspan="3">Logistic Regression</td>
-      <td>KICH</td>
-      <td>0.85</td>
-      <td>0.78</td>
-      <td>0.92</td>
-      <td>0.89</td>
-      <td>0.82</td>
-      <td>0.95</td>
-    </tr>
-    <tr>
-      <td>KIRC</td>
-      <td>0.90</td>
-      <td>0.85</td>
-      <td>0.88</td>
-      <td>0.91</td>
-      <td>0.87</td>
-      <td>0.92</td>
-    </tr>
-    <tr>
-      <td>KIRP</td>
-      <td>0.88</td>
-      <td>0.80</td>
-      <td>0.94</td>
-      <td>0.87</td>
-      <td>0.89</td>
-      <td>0.93</td>
-    </tr>
-  </tbody>
-</table>
-
-</body>
-</html>
