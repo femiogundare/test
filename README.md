@@ -20,8 +20,9 @@ Cancer remains a significant global health challenge, with early detection and a
 | Gradient Boosting Machine |  |  |  |  |  |  |
 
 
-<h2>Result per class</h2>
+<h2>Results per class</h2>
 <i>Note: KICH stands for chromophobe renal cell carcinoma, KIRC stands for clear cell renal cell carcinoma, KIRP stands for papillary renal cell carcinoma.</i>
+<br>
 <table>
   <thead>
     <tr>
