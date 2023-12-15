@@ -67,17 +67,5 @@ Cancer remains a significant global health challenge, with early detection and a
       <td>0.89</td>
       <td>0.93</td>
     </tr>
-    
-    <!-- Repeat the structure for Class 2 and Class 3 -->
-    
-    <tr>
-      <td rowspan="3">Class 2</td>
-      <!-- ... -->
-    </tr>
-    
-    <tr>
-      <td rowspan="3">Class 3</td>
-      <!-- ... -->
-    </tr>
   </tbody>
 </table>
