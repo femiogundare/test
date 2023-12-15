@@ -6,7 +6,7 @@ Cancer remains a significant global health challenge, with early detection and a
 
 
 ## Results
-
+The overall predictive performance of the machine learning methods based on ANOVA feature selection.
 | Model | Accuracy | Precision | Recall | Specificity | F1 | AUC |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | Logistic Regression | 94.81 | 93.70 | 82.53 | 94.63 | 86.58 | 97.78 |
@@ -21,6 +21,7 @@ Cancer remains a significant global health challenge, with early detection and a
 
 
 <h2>Results per class</h2>
+The predictive performance of the machine learning methods per-class based on ANOVA feature selection.
 <i>Note: KICH stands for chromophobe renal cell carcinoma, KIRC stands for clear cell renal cell carcinoma, and KIRP stands for papillary renal cell carcinoma.</i>
 <br>
 <br>
@@ -74,7 +75,7 @@ Cancer remains a significant global health challenge, with early detection and a
     <tbody>
     <!-- Replace the placeholder values with your actual data -->
     <tr>
-      <td rowspan="3">Class 1</td>
+      <td rowspan="3">Naive Bayes</td>
       <td>Classifier 1</td>
       <td>0.85</td>
       <td>0.78</td>
@@ -105,7 +106,7 @@ Cancer remains a significant global health challenge, with early detection and a
     <tbody>
     <!-- Replace the placeholder values with your actual data -->
     <tr>
-      <td rowspan="3">Class 1</td>
+      <td rowspan="3">K-Nearest Neighbor</td>
       <td>Classifier 1</td>
       <td>0.85</td>
       <td>0.78</td>
@@ -136,7 +137,7 @@ Cancer remains a significant global health challenge, with early detection and a
     <tbody>
     <!-- Replace the placeholder values with your actual data -->
     <tr>
-      <td rowspan="3">Class 1</td>
+      <td rowspan="3">Support Vector Machine</td>
       <td>Classifier 1</td>
       <td>0.85</td>
       <td>0.78</td>
@@ -167,7 +168,7 @@ Cancer remains a significant global health challenge, with early detection and a
     <tbody>
     <!-- Replace the placeholder values with your actual data -->
     <tr>
-      <td rowspan="3">Class 1</td>
+      <td rowspan="3">Decision Tree Classifier</td>
       <td>Classifier 1</td>
       <td>0.85</td>
       <td>0.78</td>
@@ -198,7 +199,7 @@ Cancer remains a significant global health challenge, with early detection and a
     <tbody>
     <!-- Replace the placeholder values with your actual data -->
     <tr>
-      <td rowspan="3">Class 1</td>
+      <td rowspan="3">Random Forest Classifier</td>
       <td>Classifier 1</td>
       <td>0.85</td>
       <td>0.78</td>
@@ -229,7 +230,7 @@ Cancer remains a significant global health challenge, with early detection and a
     <tbody>
     <!-- Replace the placeholder values with your actual data -->
     <tr>
-      <td rowspan="3">Class 1</td>
+      <td rowspan="3">Extra Trees Classifier</td>
       <td>Classifier 1</td>
       <td>0.85</td>
       <td>0.78</td>
@@ -260,7 +261,7 @@ Cancer remains a significant global health challenge, with early detection and a
     <tbody>
     <!-- Replace the placeholder values with your actual data -->
     <tr>
-      <td rowspan="3">Class 1</td>
+      <td rowspan="3">Bagging Classifier</td>
       <td>Classifier 1</td>
       <td>0.85</td>
       <td>0.78</td>
@@ -291,7 +292,7 @@ Cancer remains a significant global health challenge, with early detection and a
     <tbody>
     <!-- Replace the placeholder values with your actual data -->
     <tr>
-      <td rowspan="3">Class 1</td>
+      <td rowspan="3">Gradient Boosting Machine</td>
       <td>Classifier 1</td>
       <td>0.85</td>
       <td>0.78</td>
