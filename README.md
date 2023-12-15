@@ -37,10 +37,6 @@ Cancer remains a significant global health challenge, with early detection and a
       <th>Specificity</th>
       <th>F1 Score</th>
       <th>AUC</th>
-        <th>Class</th>
-      <th>Accuracy</th>
-      <th>Precision</th>
-      <th>Recall</th>
     </tr>
   </thead>
   <tbody>
