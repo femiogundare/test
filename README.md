@@ -27,7 +27,7 @@ Cancer remains a significant global health challenge, with early detection and a
   <thead>
     <tr>
       <th rowspan="2">Classifier</th>
-      <th colspan="6">Performance Metrics</th>
+      <th colspan="7">Performance Metrics</th>
     </tr>
     <tr>
         <th>Class</th>
