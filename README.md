@@ -23,6 +23,7 @@ The overall predictive performance of the machine learning methods based on ANOV
 <h2>Results per class</h2>
 The predictive performance of the machine learning methods per-class based on ANOVA feature selection.
 <br>
+<br>
 <i>Note: KICH stands for chromophobe renal cell carcinoma, KIRC stands for clear cell renal cell carcinoma, and KIRP stands for papillary renal cell carcinoma.</i>
 <br>
 <br>
@@ -55,7 +56,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.95</td>
     </tr>
     <tr>
-      <td>Classifier 2</td>
+      <td>KIRC</td>
       <td>0.90</td>
       <td>0.85</td>
       <td>0.88</td>
@@ -64,7 +65,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.92</td>
     </tr>
     <tr>
-      <td>Classifier 3</td>
+      <td>KIRP</td>
       <td>0.88</td>
       <td>0.80</td>
       <td>0.94</td>
@@ -86,7 +87,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.95</td>
     </tr>
     <tr>
-      <td>Classifier 2</td>
+      <td>KIRC</td>
       <td>0.90</td>
       <td>0.85</td>
       <td>0.88</td>
@@ -95,7 +96,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.92</td>
     </tr>
     <tr>
-      <td>Classifier 3</td>
+      <td>KIRP</td>
       <td>0.88</td>
       <td>0.80</td>
       <td>0.94</td>
@@ -117,7 +118,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.95</td>
     </tr>
     <tr>
-      <td>Classifier 2</td>
+      <td>KIRC</td>
       <td>0.90</td>
       <td>0.85</td>
       <td>0.88</td>
@@ -126,7 +127,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.92</td>
     </tr>
     <tr>
-      <td>Classifier 3</td>
+      <td>KIRP</td>
       <td>0.88</td>
       <td>0.80</td>
       <td>0.94</td>
@@ -148,7 +149,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.95</td>
     </tr>
     <tr>
-      <td>Classifier 2</td>
+      <td>KIRC</td>
       <td>0.90</td>
       <td>0.85</td>
       <td>0.88</td>
@@ -157,7 +158,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.92</td>
     </tr>
     <tr>
-      <td>Classifier 3</td>
+      <td>KIRP</td>
       <td>0.88</td>
       <td>0.80</td>
       <td>0.94</td>
@@ -179,7 +180,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.95</td>
     </tr>
     <tr>
-      <td>Classifier 2</td>
+      <td>KIRC</td>
       <td>0.90</td>
       <td>0.85</td>
       <td>0.88</td>
@@ -188,7 +189,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.92</td>
     </tr>
     <tr>
-      <td>Classifier 3</td>
+      <td>KIRP</td>
       <td>0.88</td>
       <td>0.80</td>
       <td>0.94</td>
@@ -210,7 +211,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.95</td>
     </tr>
     <tr>
-      <td>Classifier 2</td>
+      <td>KIRC</td>
       <td>0.90</td>
       <td>0.85</td>
       <td>0.88</td>
@@ -219,7 +220,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.92</td>
     </tr>
     <tr>
-      <td>Classifier 3</td>
+      <td>KIRP</td>
       <td>0.88</td>
       <td>0.80</td>
       <td>0.94</td>
@@ -241,7 +242,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.95</td>
     </tr>
     <tr>
-      <td>Classifier 2</td>
+      <td>KIRC</td>
       <td>0.90</td>
       <td>0.85</td>
       <td>0.88</td>
@@ -250,7 +251,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.92</td>
     </tr>
     <tr>
-      <td>Classifier 3</td>
+      <td>KIRP</td>
       <td>0.88</td>
       <td>0.80</td>
       <td>0.94</td>
@@ -272,7 +273,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.95</td>
     </tr>
     <tr>
-      <td>Classifier 2</td>
+      <td>KIRC</td>
       <td>0.90</td>
       <td>0.85</td>
       <td>0.88</td>
@@ -281,7 +282,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.92</td>
     </tr>
     <tr>
-      <td>Classifier 3</td>
+      <td>KIRP</td>
       <td>0.88</td>
       <td>0.80</td>
       <td>0.94</td>
@@ -303,7 +304,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.95</td>
     </tr>
     <tr>
-      <td>Classifier 2</td>
+      <td>KIRC</td>
       <td>0.90</td>
       <td>0.85</td>
       <td>0.88</td>
@@ -312,7 +313,7 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.92</td>
     </tr>
     <tr>
-      <td>Classifier 3</td>
+      <td>KIRP</td>
       <td>0.88</td>
       <td>0.80</td>
       <td>0.94</td>
