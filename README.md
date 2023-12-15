@@ -14,7 +14,99 @@ Cancer remains a significant global health challenge, with early detection and a
 | K-Nearest Neighbors | 97.41 | 96.75 | 88.53 | 97.43 | 91.68 | 92.98 |
 | Support Vector Machine | 97.04 | 96.74 | 85.63 | 96.69 | 89.64 | 98.23 |
 | Decision Tree | 95.56 | 86.81 | 93.21 | 96.44 | 89.51 | 96.82 |
-| Random Forest |  |  |  |  |  |  |
+| Random Forest Classifier |  |  |  |  |  |  |
 | Extra Trees Classifier |  |  |  |  |  |  |
 | Bagging Classifier |  |  |  |  |  |  |
 | Gradient Boosting Machine |  |  |  |  |  |  |
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Classifier Performance Table</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Result per class</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Classifier</th>
+      <th colspan="7">Performance Metrics</th>
+    </tr>
+    <tr>
+      <th>Accuracy</th>
+      <th>Precision</th>
+      <th>Recall</th>
+      <th>Specificity</th>
+      <th>F1 Score</th>
+      <th>AUC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Replace the placeholder values with your actual data -->
+    <tr>
+      <td rowspan="3">Class 1</td>
+      <td>Classifier 1</td>
+      <td>0.85</td>
+      <td>0.78</td>
+      <td>0.92</td>
+      <td>0.89</td>
+      <td>0.82</td>
+      <td>0.95</td>
+    </tr>
+    <tr>
+      <td>Classifier 2</td>
+      <td>0.90</td>
+      <td>0.85</td>
+      <td>0.88</td>
+      <td>0.91</td>
+      <td>0.87</td>
+      <td>0.92</td>
+    </tr>
+    <tr>
+      <td>Classifier 3</td>
+      <td>0.88</td>
+      <td>0.80</td>
+      <td>0.94</td>
+      <td>0.87</td>
+      <td>0.89</td>
+      <td>0.93</td>
+    </tr>
+    
+    <!-- Repeat the structure for Class 2 and Class 3 -->
+    
+    <tr>
+      <td rowspan="3">Class 2</td>
+      <!-- ... -->
+    </tr>
+    
+    <tr>
+      <td rowspan="3">Class 3</td>
+      <!-- ... -->
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
+
