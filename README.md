@@ -103,30 +103,27 @@ The predictive performance of the machine learning methods per-class based on AN
     <tr>
       <td rowspan="3">K-Nearest Neighbor</td>
       <td>KICH</td>
-      <td>0.85</td>
-      <td>0.78</td>
-      <td>0.92</td>
-      <td>0.89</td>
-      <td>0.82</td>
-      <td>0.95</td>
+      <td>97.78</td>
+      <td>100.00</td>
+      <td>69.23</td>
+      <td>100.00</td>
+      <td>81.82</td>
     </tr>
     <tr>
       <td>KIRC</td>
-      <td>0.90</td>
-      <td>0.85</td>
-      <td>0.88</td>
-      <td>0.91</td>
-      <td>0.87</td>
-      <td>0.92</td>
+      <td>97.22</td>
+      <td>97.39</td>
+      <td>98.25</td>
+      <td>95.45</td>
+      <td>97.82</td>
     </tr>
     <tr>
       <td>KIRP</td>
-      <td>0.88</td>
-      <td>0.80</td>
-      <td>0.94</td>
-      <td>0.87</td>
-      <td>0.89</td>
-      <td>0.93</td>
+      <td>97.22</td>
+      <td>92.86</td>
+      <td>98.11</td>
+      <td>96.85</td>
+      <td>95.41</td>
     </tr>
   </tbody>
     <tbody>
@@ -134,30 +131,27 @@ The predictive performance of the machine learning methods per-class based on AN
     <tr>
       <td rowspan="3">Support Vector Machine</td>
       <td>KICH</td>
-      <td>0.85</td>
-      <td>0.78</td>
-      <td>0.92</td>
-      <td>0.89</td>
-      <td>0.82</td>
-      <td>0.95</td>
+      <td>97.22</td>
+      <td>100.00</td>
+      <td>61.54</td>
+      <td>100.00</td>
+      <td>76.19</td>
     </tr>
     <tr>
       <td>KIRC</td>
-      <td>0.90</td>
-      <td>0.85</td>
-      <td>0.88</td>
-      <td>0.91</td>
-      <td>0.87</td>
-      <td>0.92</td>
+      <td>96.67</td>
+      <td>95.76</td>
+      <td>99.12</td>
+      <td>92.42</td>
+      <td>97.41</td>
     </tr>
     <tr>
       <td>KIRP</td>
-      <td>0.88</td>
-      <td>0.80</td>
-      <td>0.94</td>
-      <td>0.87</td>
-      <td>0.89</td>
-      <td>0.93</td>
+      <td>97.22</td>
+      <td>94.44</td>
+      <td>96.23</td>
+      <td>97.64</td>
+      <td>95.33</td>
     </tr>
   </tbody>
     <tbody>
@@ -165,30 +159,27 @@ The predictive performance of the machine learning methods per-class based on AN
     <tr>
       <td rowspan="3">Decision Tree Classifier</td>
       <td>KICH</td>
-      <td>0.85</td>
-      <td>0.78</td>
-      <td>0.92</td>
-      <td>0.89</td>
-      <td>0.82</td>
-      <td>0.95</td>
+      <td>96.67</td>
+      <td>70.59</td>
+      <td>92.31</td>
+      <td>97.01</td>
+      <td>80.00</td>
     </tr>
     <tr>
       <td>KIRC</td>
-      <td>0.90</td>
-      <td>0.85</td>
-      <td>0.88</td>
-      <td>0.91</td>
-      <td>0.87</td>
-      <td>0.92</td>
+      <td>93.89</td>
+      <td>97.25</td>
+      <td>92.98</td>
+      <td>95.45</td>
+      <td>95.07</td>
     </tr>
     <tr>
       <td>KIRP</td>
-      <td>0.88</td>
-      <td>0.80</td>
-      <td>0.94</td>
-      <td>0.87</td>
-      <td>0.89</td>
-      <td>0.93</td>
+      <td>96.11</td>
+      <td>92.59</td>
+      <td>94.34</td>
+      <td>96.85</td>
+      <td>93.46</td>
     </tr>
   </tbody>
     <tbody>
@@ -196,30 +187,27 @@ The predictive performance of the machine learning methods per-class based on AN
     <tr>
       <td rowspan="3">Random Forest Classifier</td>
       <td>KICH</td>
-      <td>0.85</td>
-      <td>0.78</td>
-      <td>0.92</td>
-      <td>0.89</td>
-      <td>0.82</td>
-      <td>0.95</td>
+      <td>97.22</td>
+      <td>78.57</td>
+      <td>84.62</td>
+      <td>98.20</td>
+      <td>81.48</td>
     </tr>
     <tr>
       <td>KIRC</td>
-      <td>0.90</td>
-      <td>0.85</td>
-      <td>0.88</td>
-      <td>0.91</td>
-      <td>0.87</td>
-      <td>0.92</td>
+      <td>96.67</td>
+      <td>100.00</td>
+      <td>97.74</td>
+      <td>100.00</td>
+      <td>97.30</td>
     </tr>
     <tr>
       <td>KIRP</td>
-      <td>0.88</td>
-      <td>0.80</td>
-      <td>0.94</td>
-      <td>0.87</td>
-      <td>0.89</td>
-      <td>0.93</td>
+      <td>97.22</td>
+      <td>91.38</td>
+      <td>100.00</td>
+      <td>96.06</td>
+      <td>95.50</td>
     </tr>
   </tbody>
     <tbody>
@@ -227,30 +215,27 @@ The predictive performance of the machine learning methods per-class based on AN
     <tr>
       <td rowspan="3">Extra Trees Classifier</td>
       <td>KICH</td>
-      <td>0.85</td>
-      <td>0.78</td>
-      <td>0.92</td>
-      <td>0.89</td>
-      <td>0.82</td>
-      <td>0.95</td>
+      <td>96.67</td>
+      <td>73.33</td>
+      <td>84.62</td>
+      <td>97.60</td>
+      <td>78.57</td>
     </tr>
     <tr>
       <td>KIRC</td>
-      <td>0.90</td>
-      <td>0.85</td>
-      <td>0.88</td>
-      <td>0.91</td>
-      <td>0.87</td>
-      <td>0.92</td>
+      <td>95.56</td>
+      <td>99.07</td>
+      <td>93.86</td>
+      <td>98.48</td>
+      <td>96.40</td>
     </tr>
     <tr>
       <td>KIRP</td>
-      <td>0.88</td>
-      <td>0.80</td>
-      <td>0.94</td>
-      <td>0.87</td>
-      <td>0.89</td>
-      <td>0.93</td>
+      <td>96.67</td>
+      <td>91.23</td>
+      <td>98.11</td>
+      <td>96.06</td>
+      <td>94.55</td>
     </tr>
   </tbody>
     <tbody>
