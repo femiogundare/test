@@ -21,7 +21,7 @@ Cancer remains a significant global health challenge, with early detection and a
 
 
 <h2>Results per class</h2>
-<i>Note: KICH stands for chromophobe renal cell carcinoma, KIRC stands for clear cell renal cell carcinoma, KIRP stands for papillary renal cell carcinoma.</i>
+<i>Note: KICH stands for chromophobe renal cell carcinoma, KIRC stands for clear cell renal cell carcinoma, and KIRP stands for papillary renal cell carcinoma.</i>
 <br>
 <br>
 <table>
@@ -43,7 +43,7 @@ Cancer remains a significant global health challenge, with early detection and a
   <tbody>
     <!-- Replace the placeholder values with your actual data -->
     <tr>
-      <td rowspan="3">Class 1</td>
+      <td rowspan="3">Logistic Regression</td>
       <td>Classifier 1</td>
       <td>0.85</td>
       <td>0.78</td>
