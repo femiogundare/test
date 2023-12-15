@@ -15,8 +15,8 @@ The overall predictive performance of the machine learning methods based on ANOV
 | Support Vector Machine | 97.04 | 96.74 | 85.63 | 96.69 | 89.64 | 98.23 |
 | Decision Tree | 95.56 | 86.81 | 93.21 | 96.44 | 89.51 | 96.82 |
 | Random Forest Classifier | 97.04 | 89.98 | 93.12 | 98.09 | 91.42 | 99.14 |
-| Extra Trees Classifier |  |  |  |  |  |  |
-| Bagging Classifier |  |  |  |  |  |  |
+| Extra Trees Classifier | 96.30 | 87.88 | 92.20 | 97.38 | 89.84 | 98.49 |
+| Bagging Classifier | 95.93 | 92.12 | 84.42 | 95.72 | 87.43 | 99.16 |
 | Gradient Boosting Machine |  |  |  |  |  |  |
 
 
@@ -243,30 +243,27 @@ The predictive performance of the machine learning methods per-class based on AN
     <tr>
       <td rowspan="3">Bagging Classifier</td>
       <td>KICH</td>
-      <td>0.85</td>
-      <td>0.78</td>
-      <td>0.92</td>
-      <td>0.89</td>
-      <td>0.82</td>
-      <td>0.95</td>
+      <td>96.67</td>
+      <td>88.89</td>
+      <td>61.54</td>
+      <td>99.40</td>
+      <td>72.73</td>
     </tr>
     <tr>
       <td>KIRC</td>
-      <td>0.90</td>
-      <td>0.85</td>
-      <td>0.88</td>
-      <td>0.91</td>
-      <td>0.87</td>
-      <td>0.92</td>
+      <td>95.00</td>
+      <td>94.87</td>
+      <td>97.37</td>
+      <td>90.91</td>
+      <td>96.10</td>
     </tr>
     <tr>
       <td>KIRP</td>
-      <td>0.88</td>
-      <td>0.80</td>
-      <td>0.94</td>
-      <td>0.87</td>
-      <td>0.89</td>
-      <td>0.93</td>
+      <td>96.11</td>
+      <td>92.59</td>
+      <td>94.34</td>
+      <td>96.85</td>
+      <td>93.46</td>
     </tr>
   </tbody>
     <tbody>
