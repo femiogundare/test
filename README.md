@@ -276,7 +276,6 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.92</td>
       <td>0.89</td>
       <td>0.82</td>
-      <td>0.95</td>
     </tr>
     <tr>
       <td>KIRC</td>
@@ -285,7 +284,6 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.88</td>
       <td>0.91</td>
       <td>0.87</td>
-      <td>0.92</td>
     </tr>
     <tr>
       <td>KIRP</td>
@@ -294,7 +292,6 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>0.94</td>
       <td>0.87</td>
       <td>0.89</td>
-      <td>0.93</td>
     </tr>
   </tbody>
 </table>
