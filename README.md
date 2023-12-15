@@ -20,31 +20,6 @@ Cancer remains a significant global health challenge, with early detection and a
 | Gradient Boosting Machine |  |  |  |  |  |  |
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Classifier Performance Table</title>
-  <style>
-    table {
-      border-collapse: collapse;
-      width: 100%;
-    }
-
-    th, td {
-      border: 1px solid #ddd;
-      padding: 8px;
-      text-align: left;
-    }
-
-    th {
-      background-color: #f2f2f2;
-    }
-  </style>
-</head>
-<body>
-
 <h2>Result per class</h2>
 
 <table>
@@ -106,7 +81,3 @@ Cancer remains a significant global health challenge, with early detection and a
     </tr>
   </tbody>
 </table>
-
-</body>
-</html>
-
