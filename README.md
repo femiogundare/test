@@ -17,7 +17,6 @@ The overall predictive performance of the machine learning methods based on ANOV
 | Random Forest Classifier | 97.04 | 89.98 | 93.12 | 98.09 | 91.42 | 99.14 |
 | Extra Trees Classifier | 96.30 | 87.88 | 92.20 | 97.38 | 89.84 | 98.49 |
 | Bagging Classifier | 95.93 | 92.12 | 84.42 | 95.72 | 87.43 | 99.16 |
-| Gradient Boosting Machine |  |  |  |  |  |  |
 
 
 <h2>Results per class</h2>
@@ -266,66 +265,16 @@ The predictive performance of the machine learning methods per-class based on AN
       <td>93.46</td>
     </tr>
   </tbody>
-    <tbody>
-    <!-- Replace the placeholder values with your actual data -->
-    <tr>
-      <td rowspan="3">Gradient Boosting Machine</td>
-      <td>KICH</td>
-      <td>0.85</td>
-      <td>0.78</td>
-      <td>0.92</td>
-      <td>0.89</td>
-      <td>0.82</td>
-    </tr>
-    <tr>
-      <td>KIRC</td>
-      <td>0.90</td>
-      <td>0.85</td>
-      <td>0.88</td>
-      <td>0.91</td>
-      <td>0.87</td>
-    </tr>
-    <tr>
-      <td>KIRP</td>
-      <td>0.88</td>
-      <td>0.80</td>
-      <td>0.94</td>
-      <td>0.87</td>
-      <td>0.89</td>
-    </tr>
-  </tbody>
 </table>
 
 
 
-<!DOCTYPE html>
-    <html>
-    <head>
-      <meta charset=utf-8 />
-      <title></title>
-      <style>
-        div.container {
-          display:inline-block;
-        }
-    
-        p {
-          text-align:center;
-        }
-      </style>
-    </head>
-    <body>
-      <div class="container">
-        <img src="http://placehold.it/350x150" height="200" width="200" />
-        <p>This is image 1</p>
-      </div>
-      <div class="container">
-        <img class="middle-img" src="http://placehold.it/350x150"/ height="200" width="200" />
-        <p>This is image 2</p>
-      </div>
-      <div class="container">
-        <img src="http://placehold.it/350x150" height="200" width="200" />
-        <p>This is image 3</p>
-      </div>
-    </div>
-    </body>
-    </html>
+<b>Fig. 1 | Receiver operating curve of Random Forest</b>.
+<p>
+<img src="_output/anova/Random Forest_rocauc.png" alt="random forest" width="500" height="400">
+</p>
+<br />
+<b>Fig. 2 | Receiver operating curve of Support Vector Machine</b>.
+<p>
+<img src="_output/anova/Random Forest_rocauc.png" alt="svm" width="500" height="400">
+</p>
