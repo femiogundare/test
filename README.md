@@ -71,7 +71,7 @@ Cancer remains a significant global health challenge, with early detection and a
     </tr>
     
     <tr>
-      <td rowspan="3">Logistic Regression</td>
+      <td rowspan="6">Logistic Regression</td>
       <td>KICH</td>
       <td>0.85</td>
       <td>0.78</td>
@@ -82,7 +82,7 @@ Cancer remains a significant global health challenge, with early detection and a
     </tr>
     
     <tr>
-      <td rowspan="3">Class 3</td>
+      <td rowspan="9">Class 3</td>
     </tr>
   </tbody>
 </table>
